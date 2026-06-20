@@ -1,8 +1,9 @@
 {
-  "type": "polyana",
+  "type": "POLYANA",
+  "name": "Явірник",
   "duration": "22",
-  "km": "4.5",
-  "region": "Ivano-Frankivsk",
-  "railwayStation": "Yaremche",
-  "photo": ["/photo/stored","/photo/stored2"]
+  "distanceKm": 4.5,
+  "region": "IVANO_FRANKIVSK",
+  "railwayStation": "YAREMCHE",
+  "photos": ["/photo/stored","/photo/stored2"]
 }

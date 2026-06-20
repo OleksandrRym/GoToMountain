@@ -5,8 +5,7 @@ import com.rymar.domain.Place;
 
 import java.io.File;
 
-
-public class Main {
+public class FileReader {
     public static void main(String[] args) throws Exception {
         ObjectMapper mapper = new ObjectMapper();
 
